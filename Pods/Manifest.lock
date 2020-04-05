@@ -1,0 +1,48 @@
+PODS:
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SCLAlertView (0.8)
+  - SDWebImage (5.6.1):
+    - SDWebImage/Core (= 5.6.1)
+  - SDWebImage/Core (5.6.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftMessageBar (5.6.0)
+  - UIScrollView-InfiniteScroll (1.1.0)
+
+DEPENDENCIES:
+  - RxCocoa (~> 5)
+  - RxSwift (~> 5)
+  - SCLAlertView
+  - SDWebImage
+  - SVProgressHUD
+  - SwiftMessageBar
+  - UIScrollView-InfiniteScroll
+
+SPEC REPOS:
+  trunk:
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SCLAlertView
+    - SDWebImage
+    - SVProgressHUD
+    - SwiftMessageBar
+    - UIScrollView-InfiniteScroll
+
+SPEC CHECKSUMS:
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SDWebImage: 7edb9c3ea661e77a66661f7f044de8c1b55d1120
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftMessageBar: eac955a042445fcafde9adcd53b66a7786b83e16
+  UIScrollView-InfiniteScroll: 3ef456bcbe759c19f510a383cff96e6647c98c98
+
+PODFILE CHECKSUM: 1d76a1ea28179f818ce4ead2f1c131a80f0f8aaf
+
+COCOAPODS: 1.8.4
