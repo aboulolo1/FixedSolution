@@ -188,7 +188,6 @@
 				61A234B22439D33B00882E9D /* Main.storyboard */,
 				61A234B72439D34000882E9D /* LaunchScreen.storyboard */,
 				61A234BA2439D34000882E9D /* Info.plist */,
-				61948E23243B51B200A01B5C /* Assets.xcassets */,
 			);
 			path = FixedSolutionChallange;
 			sourceTree = "<group>";
@@ -235,6 +234,7 @@
 		61A234C42439D62300882E9D /* Helper */ = {
 			isa = PBXGroup;
 			children = (
+				61948E23243B51B200A01B5C /* Assets.xcassets */,
 				61A234E12439E17C00882E9D /* SharedEnums.swift */,
 				61A234ED2439F86F00882E9D /* FixedSolutionChallange-Bridging-Header.h */,
 			);
