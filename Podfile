@@ -1,8 +1,6 @@
-# Uncomment the next line to define a global platform for your project
-# platform :ios, '12.0'
+ platform :ios, '13.0'
 
 target 'FixedSolutionChallange' do
-  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
   
   # Pods for FixedSolutionChallange
@@ -13,5 +11,7 @@ target 'FixedSolutionChallange' do
   pod 'SwiftMessageBar'
   pod 'RxSwift', '~> 5'
   pod 'RxCocoa', '~> 5'
+  pod "SearchTextField"
 
 end
+

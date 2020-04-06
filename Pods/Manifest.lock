@@ -9,6 +9,7 @@ PODS:
   - SDWebImage (5.6.1):
     - SDWebImage/Core (= 5.6.1)
   - SDWebImage/Core (5.6.1)
+  - SearchTextField (1.2.4)
   - SVProgressHUD (2.2.5)
   - SwiftMessageBar (5.6.0)
   - UIScrollView-InfiniteScroll (1.1.0)
@@ -18,6 +19,7 @@ DEPENDENCIES:
   - RxSwift (~> 5)
   - SCLAlertView
   - SDWebImage
+  - SearchTextField
   - SVProgressHUD
   - SwiftMessageBar
   - UIScrollView-InfiniteScroll
@@ -29,6 +31,7 @@ SPEC REPOS:
     - RxSwift
     - SCLAlertView
     - SDWebImage
+    - SearchTextField
     - SVProgressHUD
     - SwiftMessageBar
     - UIScrollView-InfiniteScroll
@@ -39,10 +42,11 @@ SPEC CHECKSUMS:
   RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
   SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
   SDWebImage: 7edb9c3ea661e77a66661f7f044de8c1b55d1120
+  SearchTextField: 40dc3cc57def5a211f263cac263622c163bbc25a
   SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
   SwiftMessageBar: eac955a042445fcafde9adcd53b66a7786b83e16
   UIScrollView-InfiniteScroll: 3ef456bcbe759c19f510a383cff96e6647c98c98
 
-PODFILE CHECKSUM: 1d76a1ea28179f818ce4ead2f1c131a80f0f8aaf
+PODFILE CHECKSUM: fe0b9b19d407a0947b7bc6aeec065227098a1dee
 
 COCOAPODS: 1.8.4
