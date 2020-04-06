@@ -14,7 +14,6 @@
 		61948E19243B22C400A01B5C /* MockTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61948E18243B22C400A01B5C /* MockTask.swift */; };
 		61948E1D243B23A300A01B5C /* MovieServicesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61948E1C243B23A300A01B5C /* MovieServicesTests.swift */; };
 		61948E20243B28BF00A01B5C /* MovieViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61948E1F243B28BF00A01B5C /* MovieViewModelTests.swift */; };
-		61948E24243B51B200A01B5C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61948E23243B51B200A01B5C /* Assets.xcassets */; };
 		61A234AD2439D33B00882E9D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61A234AC2439D33B00882E9D /* AppDelegate.swift */; };
 		61A234B12439D33B00882E9D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61A234B02439D33B00882E9D /* ViewController.swift */; };
 		61A234B42439D33B00882E9D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61A234B22439D33B00882E9D /* Main.storyboard */; };
@@ -33,6 +32,7 @@
 		61A234E72439EB3D00882E9D /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61A234E62439EB3D00882E9D /* MoviesViewController.swift */; };
 		61A234EA2439EDAB00882E9D /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61A234E92439EDAB00882E9D /* BaseViewController.swift */; };
 		61A234EC2439F79A00882E9D /* MovieCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61A234EB2439F79A00882E9D /* MovieCollectionViewCell.swift */; };
+		61C788E8243B5CF80058F281 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61C788E7243B5CF80058F281 /* Assets.xcassets */; };
 		9916FFFF76EBBCC5AD9F151E /* Pods_FixedSolutionChallange.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0297167D0C8E2C865633735A /* Pods_FixedSolutionChallange.framework */; };
 /* End PBXBuildFile section */
 
@@ -57,7 +57,6 @@
 		61948E18243B22C400A01B5C /* MockTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockTask.swift; sourceTree = "<group>"; };
 		61948E1C243B23A300A01B5C /* MovieServicesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieServicesTests.swift; sourceTree = "<group>"; };
 		61948E1F243B28BF00A01B5C /* MovieViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieViewModelTests.swift; sourceTree = "<group>"; };
-		61948E23243B51B200A01B5C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		61A234A92439D33B00882E9D /* FixedSolutionChallange.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FixedSolutionChallange.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		61A234AC2439D33B00882E9D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		61A234B02439D33B00882E9D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +78,7 @@
 		61A234E92439EDAB00882E9D /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		61A234EB2439F79A00882E9D /* MovieCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCollectionViewCell.swift; sourceTree = "<group>"; };
 		61A234ED2439F86F00882E9D /* FixedSolutionChallange-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FixedSolutionChallange-Bridging-Header.h"; sourceTree = "<group>"; };
+		61C788E7243B5CF80058F281 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E0B5E37DAAAB8C5A8FC564E /* Pods-FixedSolutionChallange.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FixedSolutionChallange.debug.xcconfig"; path = "Target Support Files/Pods-FixedSolutionChallange/Pods-FixedSolutionChallange.debug.xcconfig"; sourceTree = "<group>"; };
 		DE7EB08B9153EC7C7E4C0205 /* Pods-FixedSolutionChallange.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FixedSolutionChallange.release.xcconfig"; path = "Target Support Files/Pods-FixedSolutionChallange/Pods-FixedSolutionChallange.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -187,7 +187,6 @@
 				61A234B02439D33B00882E9D /* ViewController.swift */,
 				61A234B22439D33B00882E9D /* Main.storyboard */,
 				61A234B72439D34000882E9D /* LaunchScreen.storyboard */,
-				61948E23243B51B200A01B5C /* Assets.xcassets */,
 				61A234BA2439D34000882E9D /* Info.plist */,
 			);
 			path = FixedSolutionChallange;
@@ -235,6 +234,7 @@
 		61A234C42439D62300882E9D /* Helper */ = {
 			isa = PBXGroup;
 			children = (
+				61C788E4243B5CBB0058F281 /* Resources */,
 				61A234E12439E17C00882E9D /* SharedEnums.swift */,
 				61A234ED2439F86F00882E9D /* FixedSolutionChallange-Bridging-Header.h */,
 			);
@@ -331,6 +331,14 @@
 				61A234E92439EDAB00882E9D /* BaseViewController.swift */,
 			);
 			path = Base;
+			sourceTree = "<group>";
+		};
+		61C788E4243B5CBB0058F281 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				61C788E7243B5CF80058F281 /* Assets.xcassets */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		672D7605585857050FC1B66D /* Pods */ = {
@@ -433,7 +441,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				61A234B92439D34000882E9D /* LaunchScreen.storyboard in Resources */,
-				61948E24243B51B200A01B5C /* Assets.xcassets in Resources */,
+				61C788E8243B5CF80058F281 /* Assets.xcassets in Resources */,
 				61A234B42439D33B00882E9D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
